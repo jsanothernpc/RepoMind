@@ -15,6 +15,17 @@ Instead of manually searching through files and understanding a large codebase, 
 RepoMind uses **Retrieval-Augmented Generation (RAG)** to retrieve relevant code from the repository and provide context-aware answers using an LLM.
 
 ---
+---
+
+## 🎥 Demo
+
+[![RepoMind Demo](https://img.youtube.com/vi/CwqJrELJcfQ/maxresdefault.jpg)](https://youtu.be/CwqJrELJcfQ)
+
+▶️ **[Watch the RepoMind Demo on YouTube](https://youtu.be/CwqJrELJcfQ)**
+
+See RepoMind in action — GitHub authentication, repository connection,
+code indexing, RAG-based code search, AI chat, and source citations.
+
 
 ## ✨ Features
 
